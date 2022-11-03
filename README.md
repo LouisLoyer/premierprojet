@@ -1,5 +1,5 @@
 # premierprojet
-premier projet classe M1 IA
+premier projet classe M2 IA
 
 
 
